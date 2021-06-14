@@ -1,0 +1,6 @@
+
+# Enable lavacooling.
+enable_lavacooling (Lavacooling) bool true
+
+# If enabled, fences and walls cannot be jumped over.
+enable_fence_tall (Tall fences and walls) bool false
